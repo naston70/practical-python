@@ -37,3 +37,13 @@ price = 91.1
 
 a = f{names:>10s} {shares:10d} {price:10.2f}
 ```
+
+
+Exercise for strings are through the interpreter.
+
+Simple setup is to set variable below and follow along.
+
+```python
+symbols = 'AAPL, IBM, MSFT, YHOO, SCO'
+
+```
